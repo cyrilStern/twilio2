@@ -1,0 +1,17 @@
+{
+  "name": "ihelathTwilio",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3",
+    "meteor-node-stubs": "~0.2.0",
+    "peer": "^0.2.8",
+    "react": "^15.0.1",
+    "react-bootstrap": "^0.28.5",
+    "react-dom": "^15.0.1",
+    "react-mounter": "^1.2.0",
+    "twilio": "^2.9.1"
+  }
+}

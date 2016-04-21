@@ -1,0 +1,23 @@
+.topcard{
+    height: 10px;
+    background-color:#EAEAEA;
+}
+.containerCallCenter:hover{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.4s;
+}
+.ticketcontainer{
+    text-decoration: none;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    text-align: right;
+    .btn{
+        margin-bottom: 2%;
+    }
+    label{
+        font-family: sans-serif;
+        text-align: left;
+    }
+}
